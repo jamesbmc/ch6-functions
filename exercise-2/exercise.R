@@ -43,7 +43,7 @@ DescribeDifference <- function(v1, v2) {
 x <- c(1, 2, 3, 4)
 y <- 1:10
 
-DescribeDifference(skoo, atchoo)
+DescribeDifference(x, y)
 
 x <- 1:10
 y <- c(1, 2, 3, 4)
